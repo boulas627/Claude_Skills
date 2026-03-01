@@ -1,1 +1,12 @@
 # Claude_Skills
+
+This project is meant to show some of the different skills that I have managed to build in Claude. Claude Skills are a set of instructions that apply to a very specific task that a user would like to complete repeatedly. In this project, I am tracking the custom skills that I have decided to build however it is possible to use a pre-built skill as well. In order to find skills to use or to build custom skills, login to Claude and go to Customize->Skills. In my case, I found that the "skill-creator" pre-built skill served as a great template to build out my custom skills. Some of the benefits of Claude Skills include but aren't limited to: 
+
+- Improved task specific performance. Building a specific skill will enhance Claude's ability to perform specific tasks as opposed to regular prompting. The ability to iterate and customize your skill overtime will ensure an improvement in task performance.
+- Organizational knowledge capture. Because skills are easily repeatable, organizations can build in their SOPs, best practices, and any institutional knowledge which will improve cross-team collaboration as well as onboarding. If an individual like myself has specific preferences or repeatable processes that they would like to automate, Claude Skills can also be useful here. 
+- Perfect for building an enhancing your agents. As you explore building agents or "AI team members", you will want to ensure that they are equipped with the correct knowledge and skills to perform the desired tasks.
+
+
+# Skills Built 
+
+## Bill-Decoder

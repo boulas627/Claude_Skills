@@ -11,3 +11,15 @@ This project is meant to show some of the different skills that I have managed t
 
 ## Bill-Decoder
 The purpose of this skill is to summarize any bill that is making its way through congress and summarize the bill in the form of a clean report that is easy to understand. It includes the perspective of all major political parties, a status update of where the bill stands, and the most recent actions that have been taken. This skill can apply to any national bill making its way through congress or bills at the state level all within the United States. 
+
+## AppSec-Mentor
+
+As an application security engineer, I wanted to build a skill that would serve as a mentor for me and provide me with regular advice on how I can be promoted to a senior level application security engineer. When building out this skill, I instructed it to be direct in a way where it provided constructive feedback on how I could improve. This is by far the skill that I am using the most at the moment. 
+
+## Date-Night-Finder
+
+This is a fun skill to build and can be used ot identify quality but cost effective places to go out in whatever city you may currently reside in. While it is called a date night finder, it can be used for any night that you may be spendig with friends or colleagues. 
+
+# Soccer_Coach
+
+As a soccer player and team captain, I am always looking for ways to improve so I wanted to build a skill that could provide me with constructive criticism on how I could improve my individual as well as my team performance. It takes in information on how I or my team may have performed in a match and gives a handful of pointers that serve as constructive feedback. This skill is similar to the app-sec mentor skill however it is not as strict and not used as widely. 

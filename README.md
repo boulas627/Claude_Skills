@@ -10,3 +10,4 @@ This project is meant to show some of the different skills that I have managed t
 # Skills Built 
 
 ## Bill-Decoder
+The purpose of this skill is to summarize any bill that is making its way through congress and summarize the bill in the form of a clean report that is easy to understand. It includes the perspective of all major political parties, a status update of where the bill stands, and the most recent actions that have been taken. This skill can apply to any national bill making its way through congress or bills at the state level all within the United States. 
